@@ -11,7 +11,7 @@
 .menu_navigation {
     background-color: #000; 
     display: flex; 
-    flex-direction: row;
+    justify-content: space-between;
 }
 .player_button {
     border: none; 
